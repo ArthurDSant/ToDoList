@@ -1,0 +1,28 @@
+.app {
+  width: 600px;
+  margin: 40px auto 40px;
+  padding: 20px 30px;
+  border: 2px solid var(--text);
+  border-radius: 10px;
+  background-color: transparent;
+  backdrop-filter: blur(60px);
+}
+
+.app h1 {
+  text-align: center;
+  font-weight: 600;
+  color: var(--text);
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width: 620px) {
+  .app {
+    width: 300px;
+    margin: 80px auto 80px;
+    padding: 20px 30px;
+  }
+
+  .app h1 {
+    font-size: 25px;
+  }
+}

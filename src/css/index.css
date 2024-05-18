@@ -1,0 +1,44 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+  font-family: 'Arial', Sans-sefir;
+}
+
+:root {
+  
+  --text: #ffffff;
+  --text-todo: #333;
+
+  --todo: #ffffff;
+  --button: #b9b9b9;
+  --backgroundList: #efefef;
+  --background: linear-gradient(to top left, #0a0a0a, #7a7b7e);
+  
+  --complete: #2dec5d;
+  --remuve: #e63b3b;
+  --add: #00ccff;
+}
+
+h1, h2 {
+  user-select: none;
+}
+
+button {
+  border: none;
+  border-radius: 7px;
+  opacity: 0.7;
+  background-color: var(--button);
+  cursor: pointer;
+  user-select: none;
+  transition: 0.35s;
+}
+  
+button:hover {
+  opacity: 1;
+}
+

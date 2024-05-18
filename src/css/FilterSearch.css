@@ -1,0 +1,88 @@
+.filter-search {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 25px;
+  margin-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 15px;
+  border-bottom: 2px solid var(--text);
+}
+  
+.filter-search h2 {
+  font-weight: 400;
+  margin: 5px 0;
+  color: var(--text);
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+  
+.filter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+  
+.filter svg {
+  font-size: 30px;
+  margin: -2px;
+  color: var(--text);
+}
+  
+.filter select {
+  width: 200px;
+  border: none;
+  border-radius: 6px;
+  padding: 4px 10px 4px 10px;
+  margin-left: 10px;
+  color: var(--text-todo);
+  cursor: pointer;
+}
+  
+.search {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+  
+.search svg {
+  font-size: 19px;
+  color: var(--text);
+}
+  
+.search input {
+  width: 200px;
+  border: none;
+  border-radius: 6px;
+  padding: 5px 10px 5px 10px;
+  margin-left: 10px;
+  color: var(--text-todo);
+  cursor: pointer;
+}
+
+@media (max-width: 620px) {
+  .filter-search {
+    gap: 17px;
+    margin-top: 20px;
+    padding-bottom: 15px;
+  }
+    
+  .filter svg {
+    font-size: 32px;
+  }
+    
+  .filter select {
+    width: 105px;
+    padding: 2.8px 10px 2.8px 10px;
+    margin-left: 5px;
+  }
+    
+  .search svg {
+    font-size: 19px;
+  }
+    
+  .search input {
+    width: 85px;
+    padding: 3.5px 10px 4.5px 10px;
+    margin-left: 5px;
+  }
+}
