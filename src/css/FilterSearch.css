@@ -1,7 +1,7 @@
 .filter-search {
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-between;
   height: 25px;
   margin-top: 20px;
   padding-bottom: 20px;
@@ -29,7 +29,7 @@
 }
   
 .filter select {
-  width: 200px;
+  width: 220px;
   border: none;
   border-radius: 6px;
   padding: 4px 10px 4px 10px;

@@ -1,7 +1,7 @@
 import React from 'react'
 import { BsFilter } from "react-icons/bs";
 
-const Filter = ({filter, setFilter}) => {
+const Filter = ({setFilter}) => {
   return (
     <div className='filter'>
         <BsFilter />

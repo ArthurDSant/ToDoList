@@ -25,11 +25,11 @@ const TodoForm = ({ addTodo }) => {
             <select
               value={category}
               onChange={(e) => setCategory(e.target.value)} >
-                <option value="Categorias"> Categories </option>
-                <option value="Pessoal">    Personal   </option>
-                <option value="Trabalho">   Work       </option>
-                <option value="Contas">     Bank bills </option>
-                <option value="Estudos">    Studies    </option>
+                <option value="Categories">   Categories </option>
+                <option value="Personal"  >   Personal   </option>
+                <option value="Work"      >   Work       </option>
+                <option value="Bank bills">   Bank bills </option>
+                <option value="Studies"   >   Studies    </option>
             </select>
 
             <button 

@@ -5,7 +5,7 @@
   border: 2px solid var(--text);
   border-radius: 10px;
   background-color: transparent;
-  backdrop-filter: blur(60px);
+  backdrop-filter: blur(20px);
 }
 
 .app h1 {

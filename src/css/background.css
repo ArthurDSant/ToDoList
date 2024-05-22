@@ -1,8 +1,10 @@
 .background {
+  /* display: flex;
+  align-items: center; */
   position: relative;
   overflow-y: auto;
   height: 100vh;
-  background-image: url('../img/desktop.png');
+  background-image: url('../img/background.svg');
   background-size: cover; /* Adiciona isso para a imagem de fundo cobrir todo o contêiner */
   background-position: center; /* Centraliza a imagem de fundo */
   background-repeat: no-repeat; /* Impede a repetição da imagem de fundo */
@@ -25,10 +27,4 @@
 ::-webkit-scrollbar {
   width: 3px;
   background: transparent;
-}
-
-@media (max-width: 620px) {
-  .background {
-    background-image: url('../img/mobile.svg');
-  }
 }

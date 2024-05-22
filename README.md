@@ -16,4 +16,4 @@ My biggest difficulty was organizing and formulating Javascript, since this was 
 
 ## Screenshots
 
-![ToDoList](https://github.com/ArthurSantDev/To-do-list/assets/159972613/fbee3f19-b67a-4666-98da-922fe33a0377)
+![ToDoList](https://github.com/ArthurSantDev/To-do-list/assets/159972613/7f8d4946-cef2-4a24-9bac-ab84a2c23561)
