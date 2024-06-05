@@ -17,3 +17,5 @@ My biggest difficulty was organizing and formulating Javascript, since this was 
 ## Screenshots
 
 ![ToDoList](https://github.com/ArthurSantDev/To-do-list/assets/159972613/7f8d4946-cef2-4a24-9bac-ab84a2c23561)
+
+![Mobile](https://github.com/ArthurSantDev/ToDoList/assets/159972613/2e605b97-4ec2-4975-9796-e5a19c46b043)

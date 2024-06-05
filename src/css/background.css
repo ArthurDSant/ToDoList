@@ -1,6 +1,6 @@
 .background {
-  /* display: flex;
-  align-items: center; */
+  display: flex;
+  align-items: center;
   position: relative;
   overflow-y: auto;
   height: 100vh;
