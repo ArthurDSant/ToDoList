@@ -16,6 +16,12 @@ My biggest difficulty was organizing and formulating Javascript, since this was 
 
 ## Screenshots
 
-![ToDoList](https://github.com/ArthurSantDev/To-do-list/assets/159972613/7f8d4946-cef2-4a24-9bac-ab84a2c23561)
+![1](https://github.com/ArthurSantDev/ToDoList/assets/159972613/3b900a87-e8b7-4227-a027-2e5f673d7821)
 
-![Mobile](https://github.com/ArthurSantDev/ToDoList/assets/159972613/2e605b97-4ec2-4975-9796-e5a19c46b043)
+![2](https://github.com/ArthurSantDev/ToDoList/assets/159972613/413555b4-f4c1-42a7-9e59-b739c1ee5259)
+
+![3](https://github.com/ArthurSantDev/ToDoList/assets/159972613/7e2de5c3-24f8-466b-befc-a87dac664c22)
+
+![I1](https://github.com/ArthurSantDev/ToDoList/assets/159972613/5ec69873-67f6-46ff-9148-d5f079a62426)
+![I2](https://github.com/ArthurSantDev/ToDoList/assets/159972613/70bbc5aa-9158-4168-8100-aed8921884a0)
+![I3](https://github.com/ArthurSantDev/ToDoList/assets/159972613/41b04624-13b5-4f71-bd42-6e3e0e2ede34)
