@@ -15,11 +15,12 @@ My biggest difficulty was organizing and formulating Javascript, since this was 
 
 
 ## Screenshots
-
 ![1](https://github.com/ArthurSantDev/ToDoList/assets/159972613/3b900a87-e8b7-4227-a027-2e5f673d7821)
 
+#### Search
 ![2](https://github.com/ArthurSantDev/ToDoList/assets/159972613/413555b4-f4c1-42a7-9e59-b739c1ee5259)
 
+#### Filters
 ![3](https://github.com/ArthurSantDev/ToDoList/assets/159972613/7e2de5c3-24f8-466b-befc-a87dac664c22)
 
 ![I1](https://github.com/ArthurSantDev/ToDoList/assets/159972613/5ec69873-67f6-46ff-9148-d5f079a62426)
