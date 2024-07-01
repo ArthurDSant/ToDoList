@@ -1,5 +1,7 @@
 # To do list
-This project is a to-do list, with features to add and delete tasks, search options, and categories to further distinguish and customize your tasks.
+![ToDoList](https://github.com/ArthurSantDev/ToDoList/assets/159972613/19950f4d-d547-4118-86e4-2f27bc0a0486)
+
+This project is a To-Do List, with features to add and delete tasks, search options, and categories to further distinguish and customize your tasks. Initially the project was just for studying JavaScript and React, but I ended up dedicating myself a little more to make it a little more complete so I could have the freedom to put it as an example in my portfolio.
 
 
 ## Stacks
